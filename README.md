@@ -57,7 +57,7 @@ kemudian login pada browser. Setelah itu, jalankan service HDFS
 ![](ss/12.png) <br>
 
 
-1. Uji coba <code> SystemCommandsOutput.scala </code>
+1. Uji coba <code> SystemCommandsOutput.scala </code> <br>
 ![](ss/13.png) <br>
 ![](ss/14.png) <br>
 
