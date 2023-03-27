@@ -28,7 +28,7 @@ Menjalankan service dari pyspark terlebih dahulu dengan perintah
 ![](ss/4.png) <br>
 ![](ss/5.png) <br>
 
-4. Uji coba <code> PairRDD.py </code>
+4. Uji coba <code> PairRDD.py </code> <br>
 ![](ss/6.png)
 
 5. Uji coba <code> UnderstandingRDD.py </code>
